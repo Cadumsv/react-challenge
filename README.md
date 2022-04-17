@@ -28,6 +28,10 @@ Target level: This is an all around challenge that cover both juniors and experi
 
 Final accomplishment: By the end of this challenge you'll have a production ready build.
 
+## Summary
+
+This project was developed as part of the challenge of the Selection Process for the position of Intern in Software Engineering - Frontend. In this project, basic knowledge in JavaScript and HTML is applied.
+
 ## Available Scripts
 
 In the project directory, you can run:
